@@ -1,0 +1,53 @@
+{
+	"movies": [{
+			"id": 0,
+			"title": "50 Frist Dates",
+			"rating": 0.0
+		},
+		{
+			"id": 1,
+			"title": "Eternals",
+			"rating": 2.7
+		},
+		{
+			"id": 2,
+			"title": "Fast and Furios 9",
+			"rating": 5.4
+		},
+		{
+			"id": 3,
+			"title": "Gundala",
+			"rating": 0.8
+		},
+		{
+			"id": 4,
+			"title": "Rio",
+			"rating": 9.5
+		},
+		{
+			"id": 5,
+			"title": "Spiderman: No Way Home",
+			"rating": 9.2
+		},
+		{
+			"id": 6,
+			"title": "The Conjuring",
+			"rating": 8.6
+		},
+		{
+			"id": 7,
+			"title": "The Kingsman",
+			"rating": 9.1
+		},
+		{
+			"id": 8,
+			"title": "Train to Busan",
+			"rating": 0.5
+		},
+		{
+			"id": 9,
+			"title": "Uncharted",
+			"rating": 1.2
+		}
+	]
+}
